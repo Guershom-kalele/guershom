@@ -1,0 +1,96 @@
+body{
+background-color: grey;
+}
+
+.page{
+width: 720px;
+margin: auto;
+font-family: 'source sans pro'calibri,tahoma,sans-serif;
+font-size: 16px;
+border: 5px solid #3388cc;
+border-radius: 10px;
+box-shadow: 2px 3px 4px black;
+padding: 20px;
+background-color: white;
+
+}
+
+.infophoto{
+	height: 250px;
+}
+
+.info{
+	float: left;
+}
+
+img{
+	height:70%;
+	width: 25%;
+	float: right;
+}
+
+.section{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+
+.section:hover{
+	color: #00AA00;
+}
+
+.sec-droite{
+	margin-left: 150px;
+}
+
+.sec-gaushe{
+	float: left;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+h2{
+	font-size: 23px;
+	color: #3388bb;
+	border-bottom: 3px solid #3388dd;
+}
+
+.durée{
+	font-weight: normal;
+	font-size: 16px;
+	font-style: italic;
+}
+
+.titre{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#etudes p{
+	margin-bottom:37px;
+
+}
+
+#droite p{
+	margin-bottom: 32px;
+}
+
+#form p{
+	margin-top: 24px;
+}
+
+#lang p{
+	margin-top: 28px;
+	line-height: 12px;
+}
+
+#exp p{
+	margin-top: 32px;
+}
+
+#exp-gaushe{
+	margin-top: 37px;
+}
+
+#exp-droite p{
+	margin-top: 14px;
+}
